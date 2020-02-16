@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Montserrat|Heebo|Roboto&display=swap");
+
+
+
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Heebo', sans-serif;
+	font-size: 18px;
+	background-color: #F6F4EA
+}
+
+h1{
+	font-family: 'Lora', sans-serif;
+	font-weight: bold;
+	color: #D74850;
+	font-size: 40px;
+	line-height: 1.6;
+	letter-spacing: 1px;
+	font-weight: 700;
+}
+
+h2{
+	font-family: 'Lora', sans-serif;
+	font-weight: bold;
+	color: #323441;
+	font-size: 24px;
+	line-height: 1.6;
+	letter-spacing: 1px;
+	font-weight: 300;
+}
+
+h3{
+	font-family: 'Lora', sans-serif;
+	font-weight: bold;
+	color: #D74850;
+	font-size: 27px;
+	line-height: 1.6;
+	letter-spacing: 1px;
+	font-weight: 600;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+

@@ -1,0 +1,15 @@
+.btn {
+	background-color: #D74850;
+	color: #323441;
+	text-decoration: none;
+	padding: 10px 35px;
+	border-radius: 50px;
+	box-shadow: 4px 10px 20px rgba(215,72,80,0.5);
+	font-family: 'Source Sans Pro', sans-serif;
+	transition: .5s
+	margin: 30px;
+}
+
+.btn:hover{
+	background: #EADDD3;
+}

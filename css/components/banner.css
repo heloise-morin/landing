@@ -1,0 +1,14 @@
+.banner{
+	background-image: linear-gradient(-225deg, rgba(228,221,211,0.2) 0%, rgba(228,221,211,0.5) 50%), url(../../image/puree.jpg);
+	padding: 100px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h2{
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+
+}
+
